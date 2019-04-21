@@ -25,4 +25,4 @@
 https://mplatform.seoul.go.kr/api/info/apiIntroTraffic.do#
 
 ## 3. Apps View
-![image](https://user-images.githubusercontent.com/28644251/46254922-fefcf600-c4d1-11e8-9556-2212b998fdde.png)
+![image](https://user-images.githubusercontent.com/28644251/56465873-bb081900-6442-11e9-9a9e-c406a0c3e999.png)
